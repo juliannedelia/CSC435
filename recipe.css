@@ -1,0 +1,185 @@
+body
+{
+	background: url("images/silverware.jpg");
+	background-repeat: round;
+	margin: 0 20px 100px 20px;
+}
+
+div.navbar
+{
+	background-color: #F0F0F0;
+	float: right;
+	text-align: center;
+}
+
+div.navbar p
+{
+	color: #A4A400;
+	font-size: 18pt;
+	font-family: Helvetica, sans-serif;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 0px;
+}
+div.navbar ul
+{
+	list-style-type: none;
+	padding: 0px;
+}
+
+div.navbar ul li a
+{
+	padding: 5px;
+	margin: 5px;
+}
+
+h1
+{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	font-family: "Lucida Sans Unicode", sans-serif;
+	text-align: center;
+	font-size: 22pt;
+	text-decoration: underline;
+	letter-spacing: 0.25em;
+}
+
+div.sec1
+{
+	font-family: "Georgia";
+	font-size: 11pt;
+	color: #404040;
+}
+
+ol
+{
+	font-family: "Georgia";
+	font-size: 11pt;
+	color: #404040;
+}
+
+h5
+{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	float: right;
+	font-size: 11pt;
+	font-family: Helvetica, sans-serif;
+	padding-right: 10px;
+
+}
+
+#ingredients p
+{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	font-size: 18pt;
+	text-decoration: underline;
+	font-family: Helvetica, sans-serif;
+	letter-spacing: 0.25em;
+}
+
+#directions p
+{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	font-size: 18pt;
+	text-decoration: underline;
+	font-family: Helvetica, sans-serif;
+	letter-spacing: 0.25em;
+}
+
+#directions ul
+{
+	list-style-image: url('images/duck3.png')
+}
+
+#directions img
+{
+	padding-right: 400px;
+	float: right;
+}
+
+#reviewheader p
+{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	font-size: 18pt;
+	text-decoration: underline;
+	font-family: Helvetica, sans-serif;
+	letter-spacing: 0.25em;
+}
+
+#links p
+{
+	color: #A4A400;
+	background-color: #F0F0F0;
+	font-size: 18pt;
+	text-decoration: underline;
+	font-family: Helvetica, sans-serif;
+	letter-spacing: 0.25em;
+}
+
+div.wendy 
+{
+	background-color: #FFFFA8;
+	font-size: 11pt;
+}
+
+div.wendy img
+{
+	background-color: white;
+}
+
+div.bill 
+{
+	background-color: #FFFFA8;
+	font-size: 11pt;
+}
+
+div.bill img
+{
+	background-color: white;
+}
+
+div.sam 
+{
+	background-color: #FFFFA8;
+	font-size: 11pt;
+}
+
+div.sam img
+{
+	background-color: white;
+}
+
+div.peter 
+{
+	background-color: #FFFFA8;
+	font-size: 11pt;
+}
+
+div.peter img
+{
+	background-color: white;
+}
+
+div.mindy 
+{
+	background-color: #FFFFA8;
+	font-size: 11pt;
+}
+
+div.mindy img
+{
+	background-color: white;
+}
+
+a
+{
+	color: #A4A400;
+}
+
+
+
+
